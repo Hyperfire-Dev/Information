@@ -11,8 +11,8 @@ assignees: ''
 A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
 
 **Which bot is this request for?**
-[ ] Hyper's Utilities
-[ ] Hyper's Counting
+- [ ] Hyper's Utilities
+- [ ] Hyper's Counting
 
 **What are you requesting?**
 

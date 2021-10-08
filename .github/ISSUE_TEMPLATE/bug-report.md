@@ -8,17 +8,17 @@ assignees: ''
 ---
 
 **Which bot is the bug on?**
-[ ] Hyper's Utilities
-[ ] Hyper's Counting
+- [ ] Hyper's Utilities
+- [ ] Hyper's Counting
 
 **What command/feature?**
 
 
 **How serious is this?**
-[ ] Low Priority
-[ ] Fix soon
-[ ] Fix ASAP
-[ ] Critically Damaging
+- [ ] Low Priority
+- [ ] Fix soon
+- [ ] Fix ASAP
+- [ ] Critically Damaging
 
 **Describe the bug.**
 
