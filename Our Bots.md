@@ -10,4 +10,8 @@ It is a private bot, so you cannot add it.
 ![countr (1)](https://user-images.githubusercontent.com/76081146/136614231-d2aeee78-84d8-4c1a-8d64-b95ed1dbcfd1.png)
 ### *Hyper's Counting*
 
+Hyper's Counting is a self-hosted premium version of [Countr](https://github.com/countr/countr). 
 
+No, you may not invite it. Yes, you may self host it [here.](https://github.com/countr/countr)
+
+All credits go to the developers of Countr.
