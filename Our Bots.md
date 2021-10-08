@@ -6,3 +6,8 @@
 Hyper's Utilities is the main moderation bot for [Hyper's Community](https://discord.gg/dxfnxbvN) as well as a few other servers.
 
 It is a private bot, so you cannot add it.
+
+![countr (1)](https://user-images.githubusercontent.com/76081146/136614231-d2aeee78-84d8-4c1a-8d64-b95ed1dbcfd1.png)
+### *Hyper's Counting*
+
+
