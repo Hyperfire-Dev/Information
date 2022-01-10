@@ -1,4 +1,5 @@
 # Information
+[Click here to join our discord! We offer development help!](https://discord.gg/vbu87ZF4HV)
 
 ### Who are we?
 We are a team of developers lead by Hyperfire. We code discord bots. Nothing too special!
